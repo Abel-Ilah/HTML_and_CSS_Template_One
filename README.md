@@ -1,4 +1,12 @@
-TO visit the Demo : 
-Design Number One after finishing the HTML and CSS courses without JS.
+#Leon - PSD Agency Template (PSD to HTML/CSS Conversion)
 
->> Demo >>: https://abel-ilah.github.io/HTML_and_CSS_Template_One/
+After completing an HTML and CSS course, I worked on a personal training project
+where I converted a PSD file named "Leon" into a fully responsive HTML and CSS webpage. This project helped reinforce my skills in web development, focusing on layout structure, styling, and ensuring the design's fidelity from the PSD to the final webpage.
+
+The PSD file:
+
+--> source      : https://www.graphberry.com/item/leon-psd-agency-template
+
+--> price       : Free.
+
+My project Demo : https://abel-ilah.github.io/HTML_and_CSS_Template_One/
